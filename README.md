@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tunaceler@gmail.com**
 - 📊 Kaggle: <a href="https://www.kaggle.com/tunahaneler" target="_blank">kaggle.com/tunahaneler</a>
-- 📊 Linkedln: <a href="https://www.kaggle.com/tunahaneler" target="_blank">https://www.linkedin.com/in/tunahan-%C3%A7eler/</a>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/tunahan-%C3%A7eler/" target="_blank">linkedin.com/in/tunahan-çeler</a>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -44,15 +44,3 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tunahanclrr&show_icons=true&locale=en&layout=compact" alt="tunahanclrr" />
-</p>
-
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tunahanclrr&show_icons=true&locale=en" alt="tunahanclrr" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tunahanclrr" alt="tunahanclrr" />
-</p>
