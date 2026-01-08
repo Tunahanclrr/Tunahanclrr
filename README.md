@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **tunaceler@gmail.com**
 - 📊 Kaggle: <a href="https://www.kaggle.com/tunahaneler" target="_blank">kaggle.com/tunahaneler</a>
+- 📊 Linkedln: <a href="https://www.kaggle.com/tunahaneler" target="_blank">https://www.linkedin.com/in/tunahan-%C3%A7eler/</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
